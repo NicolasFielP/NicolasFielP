@@ -8,7 +8,7 @@
 
 ## Habilidades
 ### Idiomas
-- português: fluente 
+- português: nativo
 - inglês: intermediario/avançado
 - espanhol: basico/intermediário
 - japonês: Básico
@@ -24,3 +24,8 @@
 - Pycharm
 - Windows
 - Linux
+
+## cursos
+- mecânica automotiva - senai
+- metrologia - senai
+- Tecnicas de invasão 
