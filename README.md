@@ -8,6 +8,7 @@
 
 ## Habilidades
 ### Idiomas
+- português: fluente 
 - inglês: intermediario/avançado
 - espanhol: basico/intermediário
 - japonês: Básico
@@ -20,5 +21,6 @@
 - Git
 - GitHub
 - Visual Studio Code
+- Pycharm
 - Windows
 - Linux
