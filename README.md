@@ -1,12 +1,24 @@
-## Hi there 👋
+# Prazer, sou Nicolas! 😃😃
 
-Here are some ideas to get you started:
+## Cursando: 
+- Mecatrônica ⚙
+- Segurança da informação 🕵️‍♂️
+- Desenvolvimento web 🌐
+- Programação 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Habilidades
+### Idiomas
+- inglês: intermediario/avançado
+- espanhol: basico/intermediário
+- japonês: Básico
+### Front-end
+- HTML5
+- CSS3
+### Back-end
+- Python
+### Ferramentas e outros
+- Git
+- GitHub
+- Visual Studio Code
+- Windows
+- Linux
