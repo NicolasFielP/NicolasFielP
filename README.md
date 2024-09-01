@@ -31,7 +31,7 @@
 ## GitHub Stats
 <div align="center">
   <a href="https://github.com/NicolasFielP">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=NicolasFielP&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFielP&theme=blue-green&layout=compact">
+    <img height="180cm" widith="70cm" src="https://github-readme-stats.vercel.app/api?username=NicolasFielP&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true">
+    <img height="180cm" widith="70cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFielP&theme=blue-green&layout=compact">
   </a>
 </div>
