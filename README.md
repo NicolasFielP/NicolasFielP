@@ -3,7 +3,6 @@
 ## Cursando: 
 - Mecatrônica ⚙
 - Segurança da informação 🕵️‍♂️
-- Desenvolvimento web 🌐
 - Programação 👨‍💻
 
 ## Habilidades
